@@ -19,7 +19,7 @@ Este proyecto utiliza técnicas de Inteligencia Artificial y modelos de Machine 
 
 El proyecto utiliza el conjunto de datos "Supermarket Store Branches Sales Analysis" disponible en Kaggle, el cual incluye información de más de 800 sucursales de supermercados.
 
-[Link al dataset](https://www.kaggle.com/datasets/surajjha101/stores-area-and-sales-data)
+[Link al dataset]([https://www.kaggle.com/datasets/surajjha101/stores-area-and-sales-data](https://www.kaggle.com/datasets/surajjha101/stores-area-and-sales-data))
 
 ## Cómo usar
 
@@ -32,7 +32,6 @@ El proyecto utiliza el conjunto de datos "Supermarket Store Branches Sales Analy
    - Ejecutar el archivo `app.py` para iniciar el servidor local.
 
 3. **Subir datos y obtener predicciones**:
-   - Iniciar sesión o registrarse en la aplicación.
    - Subir un archivo CSV con el formato requerido.
    - Visualizar las predicciones generadas por el modelo.
 
@@ -44,9 +43,9 @@ El proyecto utiliza el conjunto de datos "Supermarket Store Branches Sales Analy
 
 ## Colaboradores
 
-- **Jhonny Elias Ruiz Santos** - [@JhonnyRuiz](https://github.com/JhonnyRuiz)
-- **Hector Jesus Quintana Robatti** - [@HectorQuintana](https://github.com/HectorQuintana)
+- **Jhonny Elias Ruiz Santos** - [@JhonnyRuiz](https://github.com/jhonnyE20)
+- **Hector Jesus Quintana Robatti** - [@HectorQuintana](https://github.com/HectorQR)
 
 ## Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE.txt) para más detalles.
